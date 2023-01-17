@@ -1,1 +1,1 @@
-# pro-EYAD
+# EYAD
